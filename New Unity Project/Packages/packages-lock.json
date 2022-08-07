@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< HEAD:vector w friends/Packages/packages-lock.json
     "com.unity.2d.animation": {
       "version": "7.0.6",
       "depth": 0,
@@ -82,6 +83,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> 4bb87232f1f883429b5853484799a6fd618e451c:New Unity Project/Packages/packages-lock.json
     "com.unity.collab-proxy": {
       "version": "1.17.1",
       "depth": 0,
@@ -123,18 +126,34 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD:vector w friends/Packages/packages-lock.json
     "com.unity.mathematics": {
       "version": "1.2.6",
       "depth": 1,
+=======
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.0.2",
+      "depth": 2,
+>>>>>>> 4bb87232f1f883429b5853484799a6fd618e451c:New Unity Project/Packages/packages-lock.json
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD:vector w friends/Packages/packages-lock.json
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.0.2",
       "depth": 2,
+=======
+    "com.unity.services.core": {
+      "version": "1.4.2",
+      "depth": 1,
+>>>>>>> 4bb87232f1f883429b5853484799a6fd618e451c:New Unity Project/Packages/packages-lock.json
       "source": "registry",
-      "dependencies": {},
+      "dependencies": {
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.nuget.newtonsoft-json": "3.0.2",
+        "com.unity.modules.androidjni": "1.0.0"
+      },
       "url": "https://packages.unity.com"
     },
     "com.unity.services.core": {
