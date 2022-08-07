@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
+<<<<<<< HEAD:vector w friends/ProjectSettings/ProjectSettings.asset
+  productGUID: 006c5e6728ff5a746be17bf7374bbf02
+=======
   productGUID: 5fb334cdebd6d6244a002814daf42d49
+>>>>>>> 4bb87232f1f883429b5853484799a6fd618e451c:New Unity Project/ProjectSettings/ProjectSettings.asset
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -362,6 +366,9 @@ PlayerSettings:
       m_Height: 36
       m_Kind: 0
       m_SubKind: 
+<<<<<<< HEAD:vector w friends/ProjectSettings/ProjectSettings.asset
+  m_BuildTargetBatching: []
+=======
   m_BuildTargetBatching:
   - m_BuildTarget: Standalone
     m_StaticBatching: 1
@@ -378,6 +385,7 @@ PlayerSettings:
   - m_BuildTarget: WebGL
     m_StaticBatching: 0
     m_DynamicBatching: 0
+>>>>>>> 4bb87232f1f883429b5853484799a6fd618e451c:New Unity Project/ProjectSettings/ProjectSettings.asset
   m_BuildTargetGraphicsJobs:
   - m_BuildTarget: MacStandaloneSupport
     m_GraphicsJobs: 0
