@@ -1,0 +1,4 @@
+repository "my games with frends@seminyigit@cloud"
+  path "/"
+    br "/main"
+    co "/main"
